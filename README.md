@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/cartographai-mcp-server-codegraph-badge.png)](https://mseep.ai/app/cartographai-mcp-server-codegraph)
+
 # mcp-server-codegraph
 
 A [Model Context Protocol](https://github.com/modelcontextprotocol) server that provides tools to generate and query a graph representation in your codebase.
