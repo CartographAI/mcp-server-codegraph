@@ -6,7 +6,7 @@
   "keywords": ["agents", "llm", "model-context-protocol"],
   "type": "module",
   "bin": {
-    "mcp-server-filesystem": "dist/index.js"
+    "mcp-server-codegraph": "dist/index.js"
   },
   "files": ["dist"],
   "devDependencies": {
