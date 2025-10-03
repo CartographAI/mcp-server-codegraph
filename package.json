@@ -1,6 +1,6 @@
 {
   "name": "@cartographai/mcp-server-codegraph",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "MCP server for graph representation of a codebase",
   "license": "MIT",
   "keywords": ["agents", "llm", "model-context-protocol"],
